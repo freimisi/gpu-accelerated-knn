@@ -4,9 +4,9 @@
 > 👨‍💻 Contributors: Omer AHMED, Mihály FREI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Environment-Google%20Colab%20(T4%20GPU)-orange?style=for-the-badge&logo=googlecolab&logoColor=white">
-  <img src="https://img.shields.io/badge/Accelerated%20By-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Made%20With-Python-blue?style=for-the-badge&logo=python&logoColor=green">
+  <img src="https://img.shields.io/badge/Environment-Google%20Colab%20(T4%20GPU)-orange?style=for-the-badge&logo=googlecolab&logoColor=orange">
+  <img src="https://img.shields.io/badge/Accelerated%20By-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=green">
 </p>
 
 ## 🖼️ Project Overview 
